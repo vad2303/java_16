@@ -14,6 +14,6 @@ public class slide47 {
     }
          
     System.out.println("Tong = " + sum);
-}
     
+}
 }
