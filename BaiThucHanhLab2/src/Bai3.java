@@ -13,10 +13,10 @@ public class Bai3 {
             nTuoi = 2023 - nNamSinh;
             if (nTuoi < 16){
                 System.out.printf("Ban %s o do tuoi vi thanh nien", sHoTen);
-            }else if(nTuoi < 18){
+            }else if(nTuoi >= 18){
                 System.out.printf("Ban %s da gia", sHoTen);
-            }else{
-                System.out.printf("Ban %s dang o do tuoi truong thanh", sHoTen);
+            }else {
+                System.out.printf("Ban %s dang o tuoi truong thanh", sHoTen);
             }
         }
     }
