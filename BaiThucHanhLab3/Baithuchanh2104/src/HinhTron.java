@@ -1,11 +1,11 @@
 public class HinhTron extends HinhHoc {
-    private double banKinh;
+    private double BanKinh;
 
     public double getBanKinh() {
-        return banKinh;
+        return BanKinh;
     }
 
-    public void setBanKinh(double banKinh) {
-        this.banKinh = banKinh;
+    public void setBanKinh(double BanKinh) {
+        this.BanKinh = BanKinh;
     }
 }

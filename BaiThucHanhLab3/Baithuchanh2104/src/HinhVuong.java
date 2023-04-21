@@ -1,11 +1,11 @@
 public class HinhVuong extends HinhHoc {
-    private double canh;
+    private double Canh;
 
     public double getCanh() {
-        return canh;
+        return Canh;
     }
 
-    public void setCanh(double canh) {
-        this.canh = canh;
+    public void setCanh(double Canh) {
+        this.Canh = Canh;
     }
 }

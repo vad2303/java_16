@@ -1,20 +1,20 @@
 public class HinhChuNhat extends HinhHoc {
-    private double chieuDai;
-    private double chieuRong;
+    private double ChieuDai;
+    private double ChieuRong;
 
     public double getChieuDai() {
-        return chieuDai;
+        return ChieuDai;
     }
 
-    public void setChieuDai(double chieuDai) {
-        this.chieuDai = chieuDai;
+    public void setChieuDai(double ChieuDai) {
+        this.ChieuDai = ChieuDai;
     }
 
     public double getChieuRong() {
-        return chieuRong;
+        return ChieuRong;
     }
 
-    public void setChieuRong(double chieuRong) {
-        this.chieuRong = chieuRong;
+    public void setChieuRong(double ChieuRong) {
+        this.ChieuRong = ChieuRong;
     }
 }

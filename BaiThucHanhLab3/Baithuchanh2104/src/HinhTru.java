@@ -1,11 +1,11 @@
 public class HinhTru extends HinhTron {
-    private double chieuCao;
+    private double ChieuCao;
 
     public double getChieuCao() {
-        return chieuCao;
+        return ChieuCao;
     }
 
-    public void setChieuCao(double chieuCao) {
-        this.chieuCao = chieuCao;
+    public void setChieuCao(double ChieuCao) {
+        this.ChieuCao = ChieuCao;
     }
 }

@@ -1,11 +1,11 @@
 public class HinhHoc {
-    protected String tenHinh;
+    protected String TenHinh;
 
     public String getTenHinh() {
-        return tenHinh;
+        return TenHinh;
     }
 
-    public void setTenHinh(String tenHinh) {
-        this.tenHinh = tenHinh;
+    public void setTenHinh(String TenHinh) {
+        this.TenHinh = TenHinh;
     }
 }
